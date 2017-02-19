@@ -1,0 +1,19 @@
+#bootstrap-overrides {
+	background-color: lightgrey;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+.blue {
+	color: darkblue;
+}
+
+.red {
+	color: maroon;
+}
+
+.green {
+	color: darkgreen;
+}
+
+
